@@ -13,5 +13,8 @@ echo "<br>";
 const h=10;
 echo h;
 
+$h=20;
+echo $h;
+
 
 ?>
